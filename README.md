@@ -1,6 +1,6 @@
 ## Olá, me chamo Matheus Martins 😄
 
-- Atualmente trabalho como Full Stack (PHP) 💼
+- Atualmente trabalho como Front End (ReactJS) 💼
 - Entusiasta em Front-end e UI/UX Design ✨
 - Atualmente estudando ReactJS pela jornada Ignite da Rocketseat 🚀 (<a href="https://passport.rocketseat.com.br/ig-reactjs-01/matheusmartins" target="_blank">Meu Passaporte</a>)
 
