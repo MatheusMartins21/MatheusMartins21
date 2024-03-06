@@ -1,8 +1,8 @@
 ## Olá, me chamo Matheus Martins 😄
 
-- Atualmente trabalho como Front End (ReactJS) 💼
+- Atualmente trabalho como Front End (React e Angular) 💼
 - Entusiasta em Front-end e UI/UX Design ✨
-- Atualmente estudando ReactJS pela jornada Ignite da Rocketseat 🚀 (<a href="https://passport.rocketseat.com.br/ig-reactjs-01/matheusmartins" target="_blank">Meu Passaporte</a>)
+- Atualmente estudando Backend Node com Nest e lendo arquitetura limpa de Uncle Bob 🤓
 
  <div>
   <a href="https://github.com/matheusmartins21">
