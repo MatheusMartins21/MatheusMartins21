@@ -1,9 +1,13 @@
-## Olá, me chamo Matheus Martins 😄
+## Matheus Martins 😄
 
-- Atualmente trabalho como Front End (React e Angular) 💼
-- Entusiasta em Front-end e UI/UX Design ✨
-- Atualmente estudando Backend Node com Nest e lendo arquitetura limpa de Uncle Bob 🤓
-
+- Sr. Front End Engineer currently working for GFT Brazil
+- Hard Skills:
+  - Angular
+  - React, Next
+  - Redux / Zustand / Context API
+  - Tailwind, Bootstrap, Styled Components, SCSS
+  - NestJS
+  
  <div>
   <a href="https://github.com/matheusmartins21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmartins21&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
